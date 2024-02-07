@@ -1,14 +1,9 @@
 <script>
-import AppHero from "./AppHero.vue";
-export default {
-  components: { AppHero },
-};
+export default {};
 </script>
 
 <template>
-  <AppHero>
-    <h1>La mia prima app con Vite!</h1>
-  </AppHero>
+  <h2>ciao</h2>
 </template>
 
 <style></style>

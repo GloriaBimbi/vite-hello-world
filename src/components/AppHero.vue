@@ -3,7 +3,9 @@ export default {};
 </script>
 
 <template>
-  <div class="jumbotron"></div>
+  <div class="jumbotron">
+    <h1>La mia prima app con Vite!</h1>
+  </div>
 </template>
 
 <style scoped>
